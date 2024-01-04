@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace konyvtarapp_wpf
+namespace konyvtarwpf
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

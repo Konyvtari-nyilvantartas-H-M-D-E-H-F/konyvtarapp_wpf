@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "konyvtarapp_wpf", "konyvtarapp_wpf.csproj", "{C672539C-0E94-4BC7-9D07-B7B1D0075B37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "konyvtarwpf", "konyvtarwpf\konyvtarwpf.csproj", "{0EB32124-459B-4C86-A39D-6C85A10637C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C672539C-0E94-4BC7-9D07-B7B1D0075B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C672539C-0E94-4BC7-9D07-B7B1D0075B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C672539C-0E94-4BC7-9D07-B7B1D0075B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C672539C-0E94-4BC7-9D07-B7B1D0075B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB32124-459B-4C86-A39D-6C85A10637C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB32124-459B-4C86-A39D-6C85A10637C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB32124-459B-4C86-A39D-6C85A10637C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB32124-459B-4C86-A39D-6C85A10637C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {796F2D27-1DCD-4543-A0E3-D6E38CE8C1A0}
+		SolutionGuid = {B01618A1-76ED-454C-B772-52F7427265EC}
 	EndGlobalSection
 EndGlobal

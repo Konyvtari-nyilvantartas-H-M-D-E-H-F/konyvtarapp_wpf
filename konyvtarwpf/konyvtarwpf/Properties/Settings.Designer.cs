@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace konyvtarapp_wpf.Properties
+namespace konyvtarwpf.Properties
 {
 
 

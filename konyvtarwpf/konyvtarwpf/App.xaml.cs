@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace konyvtarapp_wpf
+namespace konyvtarwpf
 {
     /// <summary>
     /// Interaction logic for App.xaml
