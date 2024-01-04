@@ -1,0 +1,8 @@
+F:\suli\Gyuris Csaba\beadandocsoportmunka\Kreata.Backend\obj\Debug\net7.0\Kreata.Backend.csproj.AssemblyReference.cache
+F:\suli\Gyuris Csaba\beadandocsoportmunka\Kreata.Backend\obj\Debug\net7.0\Kreata.Backend.GeneratedMSBuildEditorConfig.editorconfig
+F:\suli\Gyuris Csaba\beadandocsoportmunka\Kreata.Backend\obj\Debug\net7.0\Kreata.Backend.AssemblyInfoInputs.cache
+F:\suli\Gyuris Csaba\beadandocsoportmunka\Kreata.Backend\obj\Debug\net7.0\Kreata.Backend.AssemblyInfo.cs
+F:\suli\Gyuris Csaba\beadandocsoportmunka\Kreata.Backend\obj\Debug\net7.0\Kreata.Backend.csproj.CoreCompileInputs.cache
+F:\suli\Gyuris Csaba\beadandocsoportmunka\Kreata.Backend\obj\Debug\net7.0\Kreata.Backend.MvcApplicationPartsAssemblyInfo.cs
+F:\suli\Gyuris Csaba\beadandocsoportmunka\Kreata.Backend\obj\Debug\net7.0\Kreata.Backend.MvcApplicationPartsAssemblyInfo.cache
+F:\suli\Gyuris Csaba\beadandocsoportmunka\Kreata.Backend\obj\Debug\net7.0\Kreata.Backend.sourcelink.json
