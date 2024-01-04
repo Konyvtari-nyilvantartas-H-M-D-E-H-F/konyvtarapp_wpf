@@ -37,7 +37,7 @@ using (var scope = app.Services.CreateAsyncScope())
 app.UseHttpsRedirection();
 
 // Cors
-app.UseCors("BookCors");
+app.UseCors("BooksCors");
 
 app.UseAuthorization();
 

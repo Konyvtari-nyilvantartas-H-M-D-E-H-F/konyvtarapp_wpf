@@ -10,7 +10,7 @@ namespace Books.Backend.Extensions
         {
 
             services.AddCors(option =>
-                 option.AddPolicy(name: "KretaCors",
+                 option.AddPolicy(name: "BooksCors",
                      policy =>
                      {
                          policy.WithOrigins("https://localhost:7090/")
@@ -23,7 +23,7 @@ namespace Books.Backend.Extensions
 
         public static void ConfigureInMemoryContext(this IServiceCollection services)
         {
-            string dbNameKretaContext = "Kreta" + Guid.NewGuid();
+            string dbNameKretaContext = "Books" + Guid.NewGuid();
             services.AddDbContext<BooksContext>
             (
                  options => options.UseInMemoryDatabase(databaseName: dbNameKretaContext),
@@ -32,7 +32,7 @@ namespace Books.Backend.Extensions
             );
 
 
-            string dbNameInMemoryContext = "Kreta" + Guid.NewGuid();
+            string dbNameInMemoryContext = "Books" + Guid.NewGuid();
             services.AddDbContext<BooksInMemoryContext>
             (
                  options => options.UseInMemoryDatabase(databaseName: dbNameInMemoryContext),
