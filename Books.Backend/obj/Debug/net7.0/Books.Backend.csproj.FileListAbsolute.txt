@@ -72,3 +72,39 @@ F:\suli\Gyuris Csaba\konyvtarapp_wpf\Books.Backend\obj\Debug\net7.0\refint\Books
 F:\suli\Gyuris Csaba\konyvtarapp_wpf\Books.Backend\obj\Debug\net7.0\Books.Backend.pdb
 F:\suli\Gyuris Csaba\konyvtarapp_wpf\Books.Backend\obj\Debug\net7.0\Books.Backend.genruntimeconfig.cache
 F:\suli\Gyuris Csaba\konyvtarapp_wpf\Books.Backend\obj\Debug\net7.0\ref\Books.Backend.dll
+C:\konyvtar.backend\Books.Backend\bin\Debug\net7.0\appsettings.Development.json
+C:\konyvtar.backend\Books.Backend\bin\Debug\net7.0\appsettings.json
+C:\konyvtar.backend\Books.Backend\bin\Debug\net7.0\Books.Backend.exe
+C:\konyvtar.backend\Books.Backend\bin\Debug\net7.0\Books.Backend.deps.json
+C:\konyvtar.backend\Books.Backend\bin\Debug\net7.0\Books.Backend.runtimeconfig.json
+C:\konyvtar.backend\Books.Backend\bin\Debug\net7.0\Books.Backend.dll
+C:\konyvtar.backend\Books.Backend\bin\Debug\net7.0\Books.Backend.pdb
+C:\konyvtar.backend\Books.Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\konyvtar.backend\Books.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\konyvtar.backend\Books.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\konyvtar.backend\Books.Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\konyvtar.backend\Books.Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\konyvtar.backend\Books.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\konyvtar.backend\Books.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\konyvtar.backend\Books.Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\Books.Backend.csproj.AssemblyReference.cache
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\Books.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\Books.Backend.AssemblyInfoInputs.cache
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\Books.Backend.AssemblyInfo.cs
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\Books.Backend.csproj.CoreCompileInputs.cache
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\Books.Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\Books.Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\staticwebassets\msbuild.Books.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.Books.Backend.props
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Books.Backend.props
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Books.Backend.props
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\scopedcss\bundle\Books.Backend.styles.css
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\Books.Backend.csproj.CopyComplete
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\Books.Backend.dll
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\refint\Books.Backend.dll
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\Books.Backend.pdb
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\Books.Backend.genruntimeconfig.cache
+C:\konyvtar.backend\Books.Backend\obj\Debug\net7.0\ref\Books.Backend.dll
