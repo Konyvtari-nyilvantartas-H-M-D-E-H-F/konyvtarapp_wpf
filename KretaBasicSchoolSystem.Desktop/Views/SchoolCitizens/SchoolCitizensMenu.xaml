@@ -15,7 +15,7 @@
                 HorizontalAlignment="Left"
                 Width="150"
                 Margin="32 0 0 0"
-                Content="Tanárok"
+                Content="Könyvek"
                 Command="{Binding ShowTeacherViewCommand}"
             />
             <Button 
@@ -23,7 +23,7 @@
                 HorizontalAlignment="Left"
                 Width="150"
                 Margin="12 0 0 0"
-                Content="Diákok"
+                Content="Felhasználók"
                 Command="{Binding ShowUserViewCommand}"
             />
             <Button 
@@ -31,7 +31,7 @@
                 HorizontalAlignment="Left"
                 Width="150"
                 Margin="12 0 0 0"
-                Content="Szülők"
+                Content="Kiadók"
                 Command="{Binding ShowParentViewCommand}"
              />
         </StackPanel>

@@ -25,12 +25,13 @@ namespace KretaBasicSchoolSystem.Desktop.ViewModels.SchoolCitizens
        
         public UserViewModel()
         {
+            Users.Add(new User(new Guid(), "Elek", "Teszt", "vasvari@valami.org"));
             SelectedUser = new User();
             
         }
         public UserViewModel(IUserService? userService)
         {
-            //Users.Add(new User(new Guid(), "Elek", "Teszt", "vasvari@valami.org"));
+           
             SelectedUser = new User();
 
             _userService = userService;

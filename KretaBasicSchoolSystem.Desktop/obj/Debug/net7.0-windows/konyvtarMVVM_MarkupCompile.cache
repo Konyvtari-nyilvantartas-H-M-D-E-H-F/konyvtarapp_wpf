@@ -12,7 +12,7 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\App.xaml
 34803111101
 
-59-1150000497
+59867445244
 240-1814048057
 Controls\BindablePasswordBox.xaml;Resources\ViewModelViewDataTamplate.xaml;Styles\AppStyle.xaml;Styles\ControlBarButton.xaml;Styles\DataGridStyling.xaml;Styles\IconButton.xaml;Styles\MenuButtons.xaml;Styles\SubMenuButtonStyle.xaml;Styles\UIColors.xaml;Views\Caption.xaml;Views\ControlPanel\ControlPanelView.xaml;Views\Header.xaml;Views\LeftPanel.xaml;Views\Login\LoginView.xaml;Views\MainView.xaml;Views\Menu.xaml;Views\SchoolCitizens\ParentView.xaml;Views\SchoolCitizens\SchoolCitizensMenu.xaml;Views\SchoolCitizens\SchoolCitizensView.xaml;Views\SchoolCitizens\TeacherView.xaml;Views\SchoolCitizens\UserView.xaml;Views\SchoolClasses\SchoolClassesView.xaml;Views\SchoolGrades\ClosingEndOfYearGradeView.xaml;Views\SchoolGrades\ClosingSemesterGradeView.xaml;Views\SchoolGrades\CurrentSchoolHoursView.xaml;Views\SchoolGrades\SchoolGradeMenu.xaml;Views\SchoolGrades\SchoolGradeView.xaml;Views\SchoolGrades\TaughtClassesView.xaml;Views\SchoolSubjects\SchoolClassSubjectsView.xaml;Views\SchoolSubjects\SchoolSubjectsMenu.xaml;Views\SchoolSubjects\SchoolSubjectsView.xaml;Views\SchoolSubjects\SubjectsView.xaml;Views\SchoolSubjects\TeacherSubjectsView.xaml;Views\UserOptionControl.xaml;
 

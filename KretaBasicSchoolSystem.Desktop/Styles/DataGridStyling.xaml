@@ -10,7 +10,7 @@
         <Setter Property="Background" Value="{StaticResource backgroundPrimaryColor}"></Setter>
         <Setter Property="RowBackground" Value="{StaticResource backgroundColorThird}"></Setter>
         <Setter Property="AlternatingRowBackground" Value="{StaticResource backgroundColorFourth}"></Setter>
-        <Setter Property="Foreground" Value="{StaticResource plainTextColor3}"></Setter>
+        <Setter Property="Foreground" Value="{StaticResource panelColor}"></Setter>
     </Style>
 
     <Style TargetType="{x:Type DataGridColumnHeader}" x:Key="DataGridCRUDHeaderStyle">

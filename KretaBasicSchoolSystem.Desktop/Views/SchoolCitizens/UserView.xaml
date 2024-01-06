@@ -46,14 +46,15 @@
         <TextBox Style="{DynamicResource FormTextBox}" Grid.Row="2" Grid.Column="1" Margin="2 2 2 2" Padding="0 2" Text="{Binding SelectedUser.FirstName}"></TextBox>
         <TextBox Style="{DynamicResource FormTextBox}" Grid.Row="3" Grid.Column="1" Margin="2 2 2 2" Padding="0 2" Text="{Binding SelectedUser.Email}"></TextBox>
 
-        <DataGrid 
+        <DataGrid Style="{StaticResource DataGridCrudStyle}"
             Grid.Row="5" 
             Grid.Column="0"
             Grid.ColumnSpan="2"
             ItemsSource="{Binding Users}"
             SelectedItem="{Binding SelectedUser}"
+            
             >
-            <DataGrid.Columns>
+            <DataGrid.Columns >
                 <DataGridTextColumn Width="150" Header="Vezetéknév" Binding="{Binding LastName}"></DataGridTextColumn>
                 <DataGridTextColumn Width="150" Header="Keresztnév" Binding="{Binding FirstName}"></DataGridTextColumn>
                 <DataGridTextColumn Width="150" Header="E-mail cím" Binding="{Binding  Email}"></DataGridTextColumn>
