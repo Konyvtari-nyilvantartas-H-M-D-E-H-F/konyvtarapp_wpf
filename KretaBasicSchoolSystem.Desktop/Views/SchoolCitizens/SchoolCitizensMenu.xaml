@@ -16,7 +16,7 @@
                 Width="150"
                 Margin="32 0 0 0"
                 Content="Könyvek"
-                Command="{Binding ShowTeacherViewCommand}"
+                Command="{Binding ShowBookViewCommand}"
             />
             <Button 
                 Style="{StaticResource subMenuButton}"
