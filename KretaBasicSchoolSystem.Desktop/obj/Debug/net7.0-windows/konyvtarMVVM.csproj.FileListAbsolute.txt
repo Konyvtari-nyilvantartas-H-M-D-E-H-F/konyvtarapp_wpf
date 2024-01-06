@@ -1,0 +1,256 @@
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.csproj.AssemblyReference.cache
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Styles\AppStyle.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Styles\ControlBarButton.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Styles\DataGridStyling.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Styles\IconButton.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Styles\MenuButtons.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Styles\SubMenuButtonStyle.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Styles\UIColors.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Controls\BindablePasswordBox.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\Caption.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\ControlPanel\ControlPanelView.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\Header.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\LeftPanel.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\Login\LoginView.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\MainView.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\Menu.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\ParentView.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\SchoolCitizensMenu.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\SchoolCitizensView.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\TeacherView.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolClasses\SchoolClassesView.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\ClosingEndOfYearGradeView.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\ClosingSemesterGradeView.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\CurrentSchoolHoursView.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\SchoolGradeMenu.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\SchoolGradeView.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\TaughtClassesView.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\SchoolClassSubjectsView.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\SchoolSubjectsMenu.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\SchoolSubjectsView.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\SubjectsView.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\TeacherSubjectsView.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\UserOptionControl.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM_MarkupCompile.cache
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM_MarkupCompile.lref
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\konyvtarMVVM.exe
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\konyvtarMVVM.deps.json
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\konyvtarMVVM.runtimeconfig.json
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\konyvtarMVVM.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\konyvtarMVVM.pdb
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\FontAwesome.Sharp.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Http.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\App.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Controls\BindablePasswordBox.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Resources\ViewModelViewDataTamplate.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\Caption.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\ControlPanel\ControlPanelView.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\Header.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\LeftPanel.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\Login\LoginView.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\MainView.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\Menu.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\ParentView.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\SchoolCitizensMenu.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\SchoolCitizensView.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\TeacherView.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolClasses\SchoolClassesView.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\ClosingEndOfYearGradeView.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\ClosingSemesterGradeView.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\CurrentSchoolHoursView.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\SchoolGradeMenu.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\SchoolGradeView.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\TaughtClassesView.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\SchoolClassSubjectsView.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\SchoolSubjectsMenu.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\SchoolSubjectsView.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\SubjectsView.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\TeacherSubjectsView.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\UserOptionControl.baml
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.g.resources
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.AssemblyInfoInputs.cache
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.AssemblyInfo.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.sourcelink.json
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.csproj.CopyComplete
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\refint\konyvtarMVVM.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.pdb
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.genruntimeconfig.cache
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\ref\konyvtarMVVM.dll
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\UserView.g.cs
+C:\Users\Ghoul\source\repos\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\UserView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\konyvtarMVVM.exe
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\konyvtarMVVM.deps.json
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\konyvtarMVVM.runtimeconfig.json
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\konyvtarMVVM.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\konyvtarMVVM.pdb
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\FontAwesome.Sharp.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Http.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Console.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Debug.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.csproj.AssemblyReference.cache
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Styles\AppStyle.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Styles\ControlBarButton.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Styles\DataGridStyling.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Styles\IconButton.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Styles\MenuButtons.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Styles\SubMenuButtonStyle.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Styles\UIColors.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Controls\BindablePasswordBox.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\Caption.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\ControlPanel\ControlPanelView.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\Header.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\LeftPanel.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\Login\LoginView.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\MainView.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\Menu.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\ParentView.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\SchoolCitizensMenu.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\SchoolCitizensView.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\TeacherView.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\UserView.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolClasses\SchoolClassesView.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\ClosingEndOfYearGradeView.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\ClosingSemesterGradeView.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\CurrentSchoolHoursView.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\SchoolGradeMenu.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\SchoolGradeView.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\TaughtClassesView.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\SchoolClassSubjectsView.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\SchoolSubjectsMenu.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\SchoolSubjectsView.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\SubjectsView.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\TeacherSubjectsView.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\UserOptionControl.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\App.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM_MarkupCompile.cache
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM_MarkupCompile.lref
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\App.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Controls\BindablePasswordBox.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Resources\ViewModelViewDataTamplate.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\Caption.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\ControlPanel\ControlPanelView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\Header.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\LeftPanel.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\Login\LoginView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\MainView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\Menu.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\ParentView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\SchoolCitizensMenu.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\SchoolCitizensView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\TeacherView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolCitizens\UserView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolClasses\SchoolClassesView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\ClosingEndOfYearGradeView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\ClosingSemesterGradeView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\CurrentSchoolHoursView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\SchoolGradeMenu.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\SchoolGradeView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolGrades\TaughtClassesView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\SchoolClassSubjectsView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\SchoolSubjectsMenu.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\SchoolSubjectsView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\SubjectsView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\SchoolSubjects\TeacherSubjectsView.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\Views\UserOptionControl.baml
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.g.resources
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.GeneratedMSBuildEditorConfig.editorconfig
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.AssemblyInfoInputs.cache
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.AssemblyInfo.cs
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.csproj.CoreCompileInputs.cache
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.sourcelink.json
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.csproj.CopyComplete
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\refint\konyvtarMVVM.dll
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.pdb
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\konyvtarMVVM.genruntimeconfig.cache
+F:\suli\Gyuris Csaba\konyvtarapp_wpf\KretaBasicSchoolSystem.Desktop\obj\Debug\net7.0-windows\ref\konyvtarMVVM.dll

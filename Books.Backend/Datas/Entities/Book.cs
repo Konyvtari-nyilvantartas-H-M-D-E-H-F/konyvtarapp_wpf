@@ -4,7 +4,7 @@ namespace Books.Backend.Datas.Entities
 {
     public class Book
     {
-        public Book(Guid id, string title, string author, decimal price, string publisher, DateTime published, BookCategoryType schoolClass, int bookLenght, string isbn, int numnerOfBooks, bool availability)
+        public Book(Guid id, string title, string author, decimal price, string publisher, int published, BookCategoryType schoolClass, int bookLenght, string isbn, int numnerOfBooks, bool availability)
         {
             Id = id;
             Price = price;
@@ -19,7 +19,7 @@ namespace Books.Backend.Datas.Entities
             Availability= availability;
         }
 
-        public Book(string firstName, string author, decimal price, string publisher, DateTime published, BookCategoryType schoolClass, int bookLenght,string isbn, int numnerOfBooks, bool availability)
+        public Book(string firstName, string author, decimal price, string publisher, int published, BookCategoryType schoolClass, int bookLenght,string isbn, int numnerOfBooks, bool availability)
         {
             Id = new Guid();
             Price = price;
@@ -40,7 +40,7 @@ namespace Books.Backend.Datas.Entities
             Price = null;
             Title = string.Empty;
             Author = string.Empty;
-            Published = new DateTime();
+            Published = null;
             Publisher = string.Empty;
             BookCategory = BookCategoryType.Fantasy;
             BookLength = null;
@@ -52,7 +52,7 @@ namespace Books.Backend.Datas.Entities
         public Guid Id { get; set; }
         public string Author { get; set; } 
         public string Title { get; set; }
-        public DateTime Published { get; set; }
+        public int? Published { get; set; }
         public string Publisher { get; set; }
         public decimal? Price { get; set; }
         public BookCategoryType BookCategory { get; set; }
@@ -67,7 +67,7 @@ namespace Books.Backend.Datas.Entities
             return $"A könyv címe: {Title}" +
                 $"Szerző: {Author}" +
                 $"Kategória: {BookCategory}" +
-                $"Kiadási év: {Published.Year}" +
+                $"Kiadási év: {Published}" +
                 $"Kiadó: {Publisher}" +
                 $"Az ISBN száma: {ISBN}" +
                 $"Oldalak száma: ({BookLength})" +

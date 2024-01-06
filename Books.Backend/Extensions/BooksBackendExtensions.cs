@@ -23,14 +23,23 @@ namespace Books.Backend.Extensions
 
         public static void ConfigureInMemoryContext(this IServiceCollection services)
         {
-            string dbNameKretaContext = "Books" + Guid.NewGuid();
+            string dbNameBookContext = "Books" + Guid.NewGuid();
             services.AddDbContext<BooksContext>
             (
-                 options => options.UseInMemoryDatabase(databaseName: dbNameKretaContext),
+                 options => options.UseInMemoryDatabase(databaseName: dbNameBookContext),
                  ServiceLifetime.Scoped,
                  ServiceLifetime.Scoped
+
             );
 
+            string dbNameUserContext = "Users" + Guid.NewGuid();
+            services.AddDbContext<UsersContext>
+            (
+                 options => options.UseInMemoryDatabase(databaseName: dbNameUserContext),
+                 ServiceLifetime.Scoped,
+                 ServiceLifetime.Scoped
+
+            );
 
             string dbNameInMemoryContext = "Books" + Guid.NewGuid();
             services.AddDbContext<BooksInMemoryContext>
@@ -39,11 +48,21 @@ namespace Books.Backend.Extensions
                  ServiceLifetime.Scoped,
                  ServiceLifetime.Scoped
             );
+
+            string dbNameUserInMemoryContext = "Users" + Guid.NewGuid();
+            services.AddDbContext<UsersInMemoryContext>
+            (
+                 options => options.UseInMemoryDatabase(databaseName: dbNameUserInMemoryContext),
+                 ServiceLifetime.Scoped,
+                 ServiceLifetime.Scoped
+            );
+
         }
 
         public static void ConfigureRepos(this IServiceCollection services) 
         { 
             services.AddScoped<IBookRepo, BookRepo>();
+            services.AddScoped<IUserRepo, UserRepo>();
         }
     }
 }
