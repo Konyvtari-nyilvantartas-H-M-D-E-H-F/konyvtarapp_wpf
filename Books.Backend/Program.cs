@@ -21,9 +21,11 @@ var app = builder.Build();
 using (var scope = app.Services.CreateAsyncScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<BooksInMemoryContext>();
+    var dbContextb = scope.ServiceProvider.GetService<UsersInMemoryContext>();
 
     // InMemory test data
     dbContext.Database.EnsureCreated();
+    dbContextb.Database.EnsureCreated();
 }
 
 
