@@ -58,7 +58,7 @@
             <DataGrid.Columns>
                 <DataGridTextColumn Width="150" Header="Vezetéknév" Binding="{Binding LastName}"></DataGridTextColumn>
                 <DataGridTextColumn Width="150" Header="Keresztnév" Binding="{Binding FirstName}"></DataGridTextColumn>
-                <DataGridTextColumn Width="150" Header="E-mail cím" ></DataGridTextColumn>
+                <DataGridTextColumn Width="150" Header="E-mail cím"></DataGridTextColumn>
             </DataGrid.Columns>
         </DataGrid>
     </Grid>
