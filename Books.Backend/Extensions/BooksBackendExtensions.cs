@@ -41,6 +41,15 @@ namespace Books.Backend.Extensions
 
             );
 
+            string dbNameKiadoContext = "Kiadok" + Guid.NewGuid();
+            services.AddDbContext<KiadokContext>
+            (
+                 options => options.UseInMemoryDatabase(databaseName: dbNameKiadoContext),
+                 ServiceLifetime.Scoped,
+                 ServiceLifetime.Scoped
+
+            );
+
             string dbNameInMemoryContext = "Books" + Guid.NewGuid();
             services.AddDbContext<BooksInMemoryContext>
             (
@@ -57,12 +66,21 @@ namespace Books.Backend.Extensions
                  ServiceLifetime.Scoped
             );
 
+            string dbNameKiadoInMemoryContext = "Kiadok" + Guid.NewGuid();
+            services.AddDbContext<KiadoInMemoryContext>
+            (
+                 options => options.UseInMemoryDatabase(databaseName: dbNameKiadoInMemoryContext),
+                 ServiceLifetime.Scoped,
+                 ServiceLifetime.Scoped
+            );
+
         }
 
         public static void ConfigureRepos(this IServiceCollection services) 
         { 
             services.AddScoped<IBookRepo, BookRepo>();
             services.AddScoped<IUserRepo, UserRepo>();
+            services.AddScoped<IKiadoRepo, KiadoRepo>();
         }
     }
 }

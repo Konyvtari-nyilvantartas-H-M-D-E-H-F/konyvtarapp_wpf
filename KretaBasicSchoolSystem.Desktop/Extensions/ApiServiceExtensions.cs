@@ -1,4 +1,5 @@
-﻿using KretaBasicSchoolSystem.Desktop.Service.SchoolCitizens;
+﻿using konyvtarMVVM.Service.SchoolCitizens;
+using KretaBasicSchoolSystem.Desktop.Service.SchoolCitizens;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -13,6 +14,8 @@ namespace KretaBasicSchoolSystem.Desktop.Extensions
         public static void ConfigureApiServices(this IServiceCollection services)
         {
             services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IBookService, BookService>();
+            services.AddScoped<IKiadoService, KiadoService>();
         }
     }
 }

@@ -53,15 +53,15 @@ namespace KretaDesktop.Extensions
                 DataContext = s.GetRequiredService<UserViewModel>()
             });
 
-            services.AddSingleton<TeacherViewModel>();
-            services.AddSingleton<TeacherView>(s => new TeacherView()
+            services.AddSingleton<BookViewModel>();
+            services.AddSingleton<BookView>(s => new BookView()
             {
-                DataContext = s.GetRequiredService<TeacherViewModel>()
+                DataContext = s.GetRequiredService<BookViewModel>()
             });
-            services.AddSingleton<ParentViewModel>();
-            services.AddSingleton<ParentView>(s => new ParentView()
+            services.AddSingleton<KiadoViewModel>();
+            services.AddSingleton<KiadoView>(s => new KiadoView()
             {
-                DataContext = s.GetRequiredService<ParentViewModel>()
+                DataContext = s.GetRequiredService<KiadoViewModel>()
             });
             // School classes
             services.AddSingleton<SchoolClassesViewModel>();

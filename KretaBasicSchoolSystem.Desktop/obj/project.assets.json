@@ -1802,23 +1802,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sio\\.nuget\\packages\\": {},
+    "C:\\Users\\Utód\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\suli\\Gyuris Csaba\\konyvtarapp_wpf\\KretaBasicSchoolSystem.Desktop\\konyvtarMVVM.csproj",
+      "projectUniqueName": "C:\\Users\\Utód\\Source\\Repos\\konyvtarapp_wpf\\KretaBasicSchoolSystem.Desktop\\konyvtarMVVM.csproj",
       "projectName": "konyvtarMVVM",
-      "projectPath": "F:\\suli\\Gyuris Csaba\\konyvtarapp_wpf\\KretaBasicSchoolSystem.Desktop\\konyvtarMVVM.csproj",
-      "packagesPath": "C:\\Users\\sio\\.nuget\\packages\\",
-      "outputPath": "F:\\suli\\Gyuris Csaba\\konyvtarapp_wpf\\KretaBasicSchoolSystem.Desktop\\obj\\",
+      "projectPath": "C:\\Users\\Utód\\Source\\Repos\\konyvtarapp_wpf\\KretaBasicSchoolSystem.Desktop\\konyvtarMVVM.csproj",
+      "packagesPath": "C:\\Users\\Utód\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Utód\\Source\\Repos\\konyvtarapp_wpf\\KretaBasicSchoolSystem.Desktop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\sio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Utód\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1890,7 +1890,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

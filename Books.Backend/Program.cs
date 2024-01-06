@@ -22,10 +22,12 @@ using (var scope = app.Services.CreateAsyncScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<BooksInMemoryContext>();
     var dbContextb = scope.ServiceProvider.GetService<UsersInMemoryContext>();
+    var dbContextc = scope.ServiceProvider.GetService<KiadoInMemoryContext>();
 
     // InMemory test data
     dbContext.Database.EnsureCreated();
     dbContextb.Database.EnsureCreated();
+    dbContextc.Database.EnsureCreated();
 }
 
 

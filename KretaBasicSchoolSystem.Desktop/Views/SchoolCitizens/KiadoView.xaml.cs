@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace KretaBasicSchoolSystem.Desktop.Views.SchoolCitizens
 {
     /// <summary>
-    /// Interaction logic for TeacherView.xaml
+    /// Interaction logic for ParentView.xaml
     /// </summary>
-    public partial class TeacherView : UserControl
+    public partial class KiadoView : UserControl
     {
-        public TeacherView()
+        public KiadoView()
         {
             InitializeComponent();
         }
