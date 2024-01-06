@@ -24,5 +24,7 @@ namespace KretaBasicSchoolSystem.Desktop.Views.SchoolCitizens
         {
             InitializeComponent();
         }
+
+  
     }
 }

@@ -14,7 +14,7 @@ namespace Books.Backend.Context
                 {
                     Id=Guid.NewGuid(),
                     Title="arany apam",
-                    Published=new DateTime(1905,2,1),
+                    Published=1974,
                     BookCategory = BookCategoryType.Self_Help,
                     BookLength= 200
                 },
@@ -22,7 +22,7 @@ namespace Books.Backend.Context
                 {
                     Id=Guid.NewGuid(),
                     Title="elveszet ereklyék",
-                    Published=new DateTime(),
+                    Published=1987,
                     BookCategory = BookCategoryType.Mystery,
                     BookLength=350
                 }

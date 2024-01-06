@@ -13,12 +13,14 @@
                 <GradientStop Color="{StaticResource backgroundPrimaryColor2}" Offset="1"/>
             </LinearGradientBrush>
         </Border.Background>
+        
         <StackPanel Orientation="Vertical"                     
                     Margin="0,0,0,0">
             <!-- Logo -->
-            <Image Margin="0 30 0 0" Source="/Images/kreta_atl.png" Height="40"/>
+            <Image Margin="0 30 0 0" Source="/Images/books.png" Height="40"/>
             <!-- Menu buttons -->
             <local:Menu Margin="0 20 0 0"/>
         </StackPanel>
+
     </Border>
 </UserControl>

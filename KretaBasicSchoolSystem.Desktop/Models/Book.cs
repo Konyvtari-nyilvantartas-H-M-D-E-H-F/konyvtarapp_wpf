@@ -1,9 +1,21 @@
-﻿using Books.Backend.Datas.Enums;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Books.Backend.Datas.Entities
+namespace konyvtarMVVM.Models
 {
     public class Book
     {
+        public enum BookCategoryType
+        {
+            Mystery, Thriller, Romance, Science_Fiction, Fantasy, Historical_Fiction, Literary_Fiction,
+            Biography, Autobiography, Self_Help, Personal_Development, History, Science, Nature, Business, Economics, Cookbooks,
+            Encyclopedias, Dictionaries, Atlases_and_Maps, Picture_Books, MiddleGrade_Books, Young_Adult,
+            Christianity, Islam, Buddhism,
+            Travel_Guides
+        }
         public Book(Guid id, string title, string author, decimal price, string publisher, int published, BookCategoryType schoolClass, int bookLenght, string isbn, int numnerOfBooks, bool availability)
         {
             Id = id;
@@ -16,10 +28,10 @@ namespace Books.Backend.Datas.Entities
             BookLength = bookLenght;
             ISBN = isbn;
             NumberOfBooks = numnerOfBooks;
-            Availability= availability;
+            Availability = availability;
         }
 
-        public Book(string firstName, string author, decimal price, string publisher, int published, BookCategoryType schoolClass, int bookLenght,string isbn, int numnerOfBooks, bool availability)
+        public Book(string firstName, string author, decimal price, string publisher, int published, BookCategoryType schoolClass, int bookLenght, string isbn, int numnerOfBooks, bool availability)
         {
             Id = new Guid();
             Price = price;
@@ -50,7 +62,7 @@ namespace Books.Backend.Datas.Entities
         }
 
         public Guid Id { get; set; }
-        public string Author { get; set; } 
+        public string Author { get; set; }
         public string Title { get; set; }
         public int? Published { get; set; }
         public string Publisher { get; set; }
@@ -59,7 +71,7 @@ namespace Books.Backend.Datas.Entities
         public int? BookLength { get; set; }
         public bool Availability { get; set; }
         public string ISBN { get; set; }
-        public int? NumberOfBooks {  get; set; }
+        public int? NumberOfBooks { get; set; }
 
 
         public override string ToString()

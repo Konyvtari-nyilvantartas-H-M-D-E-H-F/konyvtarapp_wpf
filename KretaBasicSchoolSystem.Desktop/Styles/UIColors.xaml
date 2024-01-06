@@ -5,16 +5,16 @@
     <SolidColorBrush x:Key="StandardButtonNotEnabled" Color="Red"></SolidColorBrush>
     <SolidColorBrush x:Key="StandardButtonFocused" Color="#EEEEFF"></SolidColorBrush>
         <!--Background Colors-->
-    <SolidColorBrush x:Key="backgroundPrimaryColor" Color="#3D98A3"/>
-    <SolidColorBrush x:Key="backgroundSecondaryColor" Color="#01CB33"/>
-    <SolidColorBrush x:Key="backgroundColorThird" Color="#6D92A3"/>
-    <SolidColorBrush x:Key="backgroundColorFourth" Color="#7DA293"/>
-    <Color x:Key="backgroundPrimaryColor1">#3D98A3</Color>
-    <Color x:Key="backgroundPrimaryColor2">#6D92A3</Color>
-    <Color x:Key="backgroundPrimaryColor3">#6172A3</Color>
-    <Color x:Key="backgroundSecondaryColor1">#00FF33</Color>
-    <Color x:Key="backgroundSecondaryColor2">#01CB33</Color>
-    <Color x:Key="backgroundSecondaryColor3">#029120</Color>
+    <SolidColorBrush x:Key="backgroundPrimaryColor" Color="#f8f4f3"/>
+    <SolidColorBrush x:Key="backgroundSecondaryColor" Color="#b36153"/>
+    <SolidColorBrush x:Key="backgroundColorThird" Color="#e1a89d"/>
+    <SolidColorBrush x:Key="backgroundColorFourth" Color="#de6d59"/>
+    <Color x:Key="backgroundPrimaryColor1">#b36153</Color>
+    <Color x:Key="backgroundPrimaryColor2">#de6d59</Color>
+    <Color x:Key="backgroundPrimaryColor3">#b36153</Color>
+    <Color x:Key="backgroundSecondaryColor1">#e1a89d</Color>
+    <Color x:Key="backgroundSecondaryColor2">#de6d59</Color>
+    <Color x:Key="backgroundSecondaryColor3">#e1a89d</Color>
     <!--Window Border Colors-->
     <Color x:Key="borderColor1">#3D98A3</Color>
     <Color x:Key="borderColor2">White</Color>

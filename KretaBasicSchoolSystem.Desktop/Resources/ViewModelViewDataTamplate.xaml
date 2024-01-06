@@ -21,8 +21,8 @@
     <DataTemplate DataType="{x:Type schoolCitizensViewModels:UserViewModel}">
         <schoolCitizensView:UserView/>
     </DataTemplate>
-    <DataTemplate DataType="{x:Type schoolCitizensViewModels:TeacherViewModel}">
-        <schoolCitizensView:TeacherView/>
+    <DataTemplate DataType="{x:Type schoolCitizensViewModels:BookViewModel}">
+        <schoolCitizensView:BookView/>
     </DataTemplate>
     <DataTemplate DataType="{x:Type schoolCitizensViewModels:ParentViewModel}">
         <schoolCitizensView:ParentView/>

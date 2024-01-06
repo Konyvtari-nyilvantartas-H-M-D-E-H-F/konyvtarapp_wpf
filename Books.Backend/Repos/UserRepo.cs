@@ -6,21 +6,21 @@ namespace Books.Backend.Repos
 {
     public class UserRepo : IUserRepo
     {
-        private readonly UsersInMemoryContext _dbContext;
+        private readonly UsersInMemoryContext _dbContextb;
 
-        public UserRepo(UsersInMemoryContext dbContext)
+        public UserRepo(UsersInMemoryContext dbContextb)
         {
-            _dbContext = dbContext;
+            _dbContextb = dbContextb;
         }
 
         public async Task<User?> GetBy(Guid id)
         {
-            return await _dbContext.Users.FirstOrDefaultAsync(s => s.Id == id);
+            return await _dbContextb.Users.FirstOrDefaultAsync(s => s.Id == id);
         }
 
         public async Task<List<User>> GetAll()
         {
-            return await _dbContext.Users.ToListAsync();
+            return await _dbContextb.Users.ToListAsync();
         }
     }
 }
