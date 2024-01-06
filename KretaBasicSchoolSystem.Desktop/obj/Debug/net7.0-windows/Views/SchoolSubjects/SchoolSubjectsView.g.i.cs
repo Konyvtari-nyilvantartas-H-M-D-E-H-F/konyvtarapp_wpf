@@ -54,7 +54,7 @@ namespace KretaBasicSchoolSystem.Desktop.Views.SchoolSubjects {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/konyvtarMVVM;V1.0.0.0;component/views/schoolsubjects/schoolsubjectsview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/konyvtarMVVM;component/views/schoolsubjects/schoolsubjectsview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\Views\SchoolSubjects\SchoolSubjectsView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
