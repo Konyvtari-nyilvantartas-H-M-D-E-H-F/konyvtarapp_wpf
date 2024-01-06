@@ -53,7 +53,7 @@
                         >
                         <StackPanel Orientation="Horizontal">
                             <fa:IconImage Icon="UserGroup" Style="{StaticResource menuButtonIcon}"/>
-                            <TextBlock Text="Iskolapolgárok" Style="{StaticResource menuButtonText}"/>
+                            <TextBlock Text="Könyvtár" Style="{StaticResource menuButtonText}"/>
                         </StackPanel>
                     </RadioButton>
                     <RadioButton 
