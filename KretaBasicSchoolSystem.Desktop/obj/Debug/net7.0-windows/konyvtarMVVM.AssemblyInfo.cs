@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("konyvtarMVVM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06d95331408d82d4a790a55a808e97ba8e4a0104")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("konyvtarMVVM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("konyvtarMVVM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
