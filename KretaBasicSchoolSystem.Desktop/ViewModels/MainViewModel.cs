@@ -68,8 +68,8 @@ namespace KretaBasicSchoolSystem.Desktop.ViewModels
         [RelayCommand]
         public void ShowSchoolCitizens()
         {
-            Caption = "Iskolapolgárok";
-            Icon = IconChar.UserGroup;
+            Caption = "Könyvtár";
+            Icon = IconChar.BookOpen;
             CurrentChildView = _schoolCitizensViewModel;
         }
 

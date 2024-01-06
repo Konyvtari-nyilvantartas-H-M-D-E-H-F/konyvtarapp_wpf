@@ -52,7 +52,7 @@
                         Command="{Binding ShowSchoolCitizensCommand}"                    
                         >
                         <StackPanel Orientation="Horizontal">
-                            <fa:IconImage Icon="UserGroup" Style="{StaticResource menuButtonIcon}"/>
+                            <fa:IconImage Icon="BookOpen" Style="{StaticResource menuButtonIcon}"/>
                             <TextBlock Text="Könyvtár" Style="{StaticResource menuButtonText}"/>
                         </StackPanel>
                     </RadioButton>
