@@ -48,6 +48,9 @@ Generated\ Files/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
+Books.Backend/bin
+Books.Backend/obj
+
 # NUnit
 *.VisualState.xml
 TestResult.xml

@@ -53,6 +53,7 @@ namespace KretaDesktop.Extensions
                 DataContext = s.GetRequiredService<UserViewModel>()
             });
 
+
             services.AddSingleton<BookViewModel>();
             services.AddSingleton<BookView>(s => new BookView()
             {
