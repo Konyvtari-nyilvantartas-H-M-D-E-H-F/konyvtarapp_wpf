@@ -30,6 +30,19 @@ namespace Books.Backend.Context
 
             // Books
             modelBuilder.Entity<Book>().HasData(books);
+
+            List<User> users = new List<User>
+            {
+                new User
+                {
+                    FirstName= "Joska",
+                    LastName= "Pista",
+                    Email= "joska@valami.com"
+                }
+            };
+
+            // User
+            modelBuilder.Entity<User>().HasData(users);
         }
     }
 }
