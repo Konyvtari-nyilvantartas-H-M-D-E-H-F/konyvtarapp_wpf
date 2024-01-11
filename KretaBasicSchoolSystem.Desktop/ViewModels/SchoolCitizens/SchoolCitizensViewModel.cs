@@ -10,24 +10,25 @@ namespace KretaBasicSchoolSystem.Desktop.ViewModels.SchoolCitizens
     public partial class SchoolCitizensViewModel : BaseViewModel
     {
         private UserViewModel _userViewModel;
-        private ParentViewModel _parentViewModel;
+        private KiadoViewModel _kiadoViewModel;
         private BookViewModel _bookViewModel;
 
         public SchoolCitizensViewModel()
         {
             IUserService userService = new UserService(null);
             IBookService bookService = new BookService(null);
+            IKiadoService kiadoService = new KiadoService(null);
             _userViewModel = new UserViewModel(userService);
-            _parentViewModel = new ParentViewModel();
+            _kiadoViewModel = new KiadoViewModel(kiadoService);
             _bookViewModel = new BookViewModel(bookService);
 
             CurrentChildViewModel = new UserViewModel();
         }
 
-        public SchoolCitizensViewModel(UserViewModel userViewModel, ParentViewModel parentViewModel, BookViewModel bookViewModel)
+        public SchoolCitizensViewModel(UserViewModel userViewModel, KiadoViewModel kiadoViewModel, BookViewModel bookViewModel)
         {
             _userViewModel = userViewModel;
-            _parentViewModel = parentViewModel;
+            _kiadoViewModel = kiadoViewModel;
             _bookViewModel = bookViewModel;
 
             CurrentChildViewModel = new UserViewModel();
@@ -52,9 +53,10 @@ namespace KretaBasicSchoolSystem.Desktop.ViewModels.SchoolCitizens
         }
 
         [RelayCommand]
-        public void ShowParentView()
+        public async Task ShowKiadoView()
         {
-            CurrentChildViewModel = _parentViewModel;
+            await _kiadoViewModel.InitializeAsync();
+            CurrentChildViewModel = _kiadoViewModel;
         }
     }
 }

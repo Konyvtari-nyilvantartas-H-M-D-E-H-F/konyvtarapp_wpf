@@ -16,6 +16,9 @@
 # Mono auto generated files
 mono_crash.*
 
+Books.Backend/bin
+Books.Backend/obj
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/

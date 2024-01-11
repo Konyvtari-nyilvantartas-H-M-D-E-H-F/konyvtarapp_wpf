@@ -43,6 +43,19 @@ namespace Books.Backend.Context
 
             // User
             modelBuilder.Entity<User>().HasData(users);
+
+            List<Kiado> kiado = new List<Kiado>
+            {
+                new Kiado
+                {
+                    FirmName = "Mozaik",
+                    Country= "Magyarország",
+                    Email= "mozaik@mozaik.com"
+
+                }
+            };
+            //kiado
+            modelBuilder.Entity<Kiado>().HasData(kiado);
         }
     }
 }
